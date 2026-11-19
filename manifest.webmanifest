@@ -1,0 +1,11 @@
+{
+  "id": "./offline.html",
+  "name": "阿拉斯加苔原独行",
+  "short_name": "苔原独行",
+  "start_url": "./offline.html?home=1",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9ece4",
+  "theme_color": "#26382e",
+  "icons": [{"src":"./icons/app-icon.png","sizes":"1254x1254","type":"image/png"}]
+}

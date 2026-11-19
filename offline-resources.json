@@ -1,0 +1,415 @@
+{
+  "version": "2026-11-19-v1",
+  "files": [
+    {
+      "path": "asset-map.js",
+      "bytes": 4470,
+      "sha256": "26752044e6803fe47eb7d2dece0a3ed44893e04b6824aeddc8327281a4d3cad4"
+    },
+    {
+      "path": "assets/action-cloth-20261118.wav",
+      "bytes": 21212,
+      "sha256": "0535cdd6d1fa9e0f04ccb19785599749d11e568fb5df2d04bdeb4899da958e49"
+    },
+    {
+      "path": "assets/aim-kneel-closeup-v1.png.webp",
+      "bytes": 2218042,
+      "sha256": "5f078f5ffec409accb74b6d2973f4d1570b6cc4a367315be3a21482c1ecf9ae0"
+    },
+    {
+      "path": "assets/approved-frying-face-20261118.png",
+      "bytes": 2589691,
+      "sha256": "1b282726fb1af2ccbfa079dbde48cca9ce51ae1f586578eec04ce52e2b33d8c0"
+    },
+    {
+      "path": "assets/approved-oil-face-20261118.png",
+      "bytes": 2816915,
+      "sha256": "6d284bbcebcef01d838cb1086a7bae765a4c66b848d8a1ede704b4e868eda9c4"
+    },
+    {
+      "path": "assets/approved-plating-face-20261118.png",
+      "bytes": 3196090,
+      "sha256": "9d1eba92f3a9712b9dddff062d6faf6266aeab7ce2e036948b5c67a3b0f6ccc1"
+    },
+    {
+      "path": "assets/approved-rope-gear-20261118.png",
+      "bytes": 3385657,
+      "sha256": "5cc131d6ae87adcd98cb3ae3826966d7c61a60e93691c90e85f8fe3974ab184d"
+    },
+    {
+      "path": "assets/baseline-aerial-clean.webp.webp",
+      "bytes": 669382,
+      "sha256": "35cfebf55a969615ac5fa23134c2ef5557c80c8fc28009a7fa29cfdb4298ed51"
+    },
+    {
+      "path": "assets/baseline-approved-fire-tea.webp.webp",
+      "bytes": 724986,
+      "sha256": "765ab4f4863c0cb6cc00dfea7401d5caef6204e14546b9795aefafdd3ee16752"
+    },
+    {
+      "path": "assets/baseline-approved-rest.webp.webp",
+      "bytes": 502162,
+      "sha256": "8da9b2b6c4ed307e14d91bc9cf3781572d7157e5cac93798cc34fedcda61367c"
+    },
+    {
+      "path": "assets/baseline-bedding-closeup-v1.webp.webp",
+      "bytes": 545696,
+      "sha256": "e9cd9e08d62ae4695c84530355d3fb34ae4e16731983f6a5a23f386e80674e67"
+    },
+    {
+      "path": "assets/baseline-bedding-consistent.webp.webp",
+      "bytes": 591204,
+      "sha256": "153ca9c52015dea55947fed828ebf37f9660806d673aa3af35254a5c80226e21"
+    },
+    {
+      "path": "assets/baseline-camp-tent.webp.webp",
+      "bytes": 360406,
+      "sha256": "923b1bdd51853f9cfc5c7cdfa24e8ae9f708729c4915eea92bc99b0a87146fa0"
+    },
+    {
+      "path": "assets/baseline-enter-tent-tea-v2.webp.webp",
+      "bytes": 652600,
+      "sha256": "408bb698f45eaa5d90ce4c6ec8d88dc307c657b8026e0b6b491ece65567ea26b"
+    },
+    {
+      "path": "assets/baseline-enter-tent-tea.webp.webp",
+      "bytes": 796268,
+      "sha256": "dcfba41e147ef9a56c05bf38c0b9cee13b6a2cfa5f04de5cb164201258daf8a2"
+    },
+    {
+      "path": "assets/baseline-fire-scrape-sheet-v1.webp.webp",
+      "bytes": 706174,
+      "sha256": "6fafd2699405ab90426c46bdb8ca75166e05cdc5328c0408d66582158405e508"
+    },
+    {
+      "path": "assets/baseline-fire-tending.webp.webp",
+      "bytes": 632726,
+      "sha256": "5308c0c7f4a5fea1ae649a00921b2fa7fbc9924b680e5cacecff4dabad45f176"
+    },
+    {
+      "path": "assets/baseline-intro-closeup-v1.webp.webp",
+      "bytes": 531514,
+      "sha256": "57b8da9484a59b59451bb8fa5e58a8758c2e964cc65dc828ead512e624ebddb8"
+    },
+    {
+      "path": "assets/baseline-pitch-rope-atlas.webp.webp",
+      "bytes": 658198,
+      "sha256": "d5d38f87013b5daef87f6300a8571fa7313680e0669bfa6d5d8da135200d6574"
+    },
+    {
+      "path": "assets/baseline-shore-camp-panorama.webp.webp",
+      "bytes": 647368,
+      "sha256": "eeedbd197da8b60098de8cfa3f460b3e65e6c02936d1d0fbf05b255d0ad1a395"
+    },
+    {
+      "path": "assets/baseline-unpack-atlas.webp.webp",
+      "bytes": 378656,
+      "sha256": "6fb48f60b83daba73f70f02f14bb81259217b8a929a3b54c96829f0cc7f2b76d"
+    },
+    {
+      "path": "assets/bedding-layer-atlas.png.webp",
+      "bytes": 1055002,
+      "sha256": "0828aced3a03b907d3cd0fb0ab19122f0b72e5f8d35aa6218ac361e1f1d20abf"
+    },
+    {
+      "path": "assets/berry-picking-closeup-v1.png.webp",
+      "bytes": 2032370,
+      "sha256": "c28203f537f0896b84d348d58c1540e32b0faf1eff2f91ed65a0b108f3b31b3b"
+    },
+    {
+      "path": "assets/bird-flight.webp.webp",
+      "bytes": 336956,
+      "sha256": "faaa81108d525e57bd1b4513db2dab519f3aa3f2812c24516c38ffe1dae47400"
+    },
+    {
+      "path": "assets/bird-processing-closeup-v1.png.webp",
+      "bytes": 2035610,
+      "sha256": "5a22f03a0d25b8ee156bea2792147ef3ee1a41ab5367b9e6ed4523155945ff85"
+    },
+    {
+      "path": "assets/bird-processing-first-closed.png",
+      "bytes": 2794849,
+      "sha256": "fe22bdd330e7cd633f6dd5a3f99e305895906dac8a9044440825f9307d6c5adb"
+    },
+    {
+      "path": "assets/bird-processing-second-approved.png",
+      "bytes": 2782451,
+      "sha256": "781f1c2bad51dfeb6ebb5b38b515911c1bd23b31d94c9c1982e9b03870265a84"
+    },
+    {
+      "path": "assets/birds-balanced.mp3.mp3",
+      "bytes": 1082348,
+      "sha256": "5ee1d6c422d514222af62f61affd7e2d9864998b2d02bd1f5c0670d02ab225b9"
+    },
+    {
+      "path": "assets/blueberry-bush.webp.webp",
+      "bytes": 468938,
+      "sha256": "7d850eb230890e7fb74c2c57fab91f9d45ef3088008e3607b8bd0c618eef7e89"
+    },
+    {
+      "path": "assets/blueberry-closeup-reference.png.webp",
+      "bytes": 2107230,
+      "sha256": "aba5c79de56f121c30f6151c87a690b5c8d996ad370531b32a9d52950e3b32bb"
+    },
+    {
+      "path": "assets/bottle-action-sheet.webp.webp",
+      "bytes": 351884,
+      "sha256": "54b2febd692c9c2d2310e8fbaa51b6072d1a065c724c8db21366e777ffb8c362"
+    },
+    {
+      "path": "assets/campfire-balanced.mp3.mp3",
+      "bytes": 437612,
+      "sha256": "950d4835be63d4913baaa698bf5b4ac011df9fcf9bc5702f68314414de542bb0"
+    },
+    {
+      "path": "assets/dinner-plating-draft.png",
+      "bytes": 3152892,
+      "sha256": "eb739d3cca39bc5250fc4673d8c4d3dd9951231525abf3daac44af182f750215"
+    },
+    {
+      "path": "assets/dinner-style-draft.png",
+      "bytes": 3531262,
+      "sha256": "6fdd51fc4ee587e034510a1755b7a8df577cd6d0f2a4bc940ebb28c11e6d415d"
+    },
+    {
+      "path": "assets/distant-shrub.webp.webp",
+      "bytes": 782756,
+      "sha256": "1ff7941c86ccb53c3de241b096612cbdc6893c689dfc07fbc883f27cffa976ed"
+    },
+    {
+      "path": "assets/eating-lift-v1.png.webp",
+      "bytes": 2099942,
+      "sha256": "7b526d22d21f607d5c213f2bc32549f153365c1c022829a90c847ef5ec19c494"
+    },
+    {
+      "path": "assets/evening-back-v2.png.webp",
+      "bytes": 2338530,
+      "sha256": "adfdfee477c911d440b7ed00f8258510de01ca120a1541f272d2fb465044ac32"
+    },
+    {
+      "path": "assets/face-cooking-reference.png.webp",
+      "bytes": 2249742,
+      "sha256": "870af58581993338e2382fb9a2e6c48a6451913c9c60dfe225bcd937b7a43ed3"
+    },
+    {
+      "path": "assets/face-eating-lift-reference.png.webp",
+      "bytes": 2048136,
+      "sha256": "cb0b2bc30032421c36a7f94bc731013682582a36f4082c654454004a0e5fceab"
+    },
+    {
+      "path": "assets/face-eating-reference.png.webp",
+      "bytes": 2020668,
+      "sha256": "c0b0db79c3cb4861deb26cd1dcb3ff4abf3b6ed79a50a8502832a9efdc500592"
+    },
+    {
+      "path": "assets/firesteel-draft.png",
+      "bytes": 3201497,
+      "sha256": "1326a8f4fd448361dbe140c3527eae18d9110989288d98b1914c611953bc0a8c"
+    },
+    {
+      "path": "assets/fish-unhook-sheet.webp.webp",
+      "bytes": 263402,
+      "sha256": "14dcb059b9884528338e58be64bf33882c5c5ba64e07a637f15063360b57fb3b"
+    },
+    {
+      "path": "assets/fishing-action-sheet.png.webp",
+      "bytes": 407624,
+      "sha256": "9ab740ec6ca97dbd001c252e0a11cfbeb71d7926fce5b032ade2d2cee7beb43b"
+    },
+    {
+      "path": "assets/frying.mp3.mp3",
+      "bytes": 393896,
+      "sha256": "0e41a31d12bdd5a18eee1b4893a8a3ec89e2027ee49e7ac139d001bd1ae1ed11"
+    },
+    {
+      "path": "assets/grayling.webp.webp",
+      "bytes": 324990,
+      "sha256": "9460d1f9d49e9ba205dc02f9c6b9ab9844d8f7e8c97cc597723d88c3422158fe"
+    },
+    {
+      "path": "assets/hunter-aim.webp.webp",
+      "bytes": 217564,
+      "sha256": "19333b75cb6fe6208a01a174ffa95c74333f29d611aea37c62d41a04514fb1e0"
+    },
+    {
+      "path": "assets/lone-wolf.mp3.mp3",
+      "bytes": 188248,
+      "sha256": "b7628ba96ae11d5ba819fe801fee2a2337e885abca0fb649260793c9b4b3446e"
+    },
+    {
+      "path": "assets/picking-sheet.webp.webp",
+      "bytes": 344758,
+      "sha256": "3d2e86ed14b2e1a75777b67f5131504dccd937bd820788d34b6eb56ec3cb8320"
+    },
+    {
+      "path": "assets/ptarmigan.webp.webp",
+      "bytes": 232636,
+      "sha256": "021b04ad364dd2cf0d479f0d213ce22d9dcf1a603989c79ab98a689e00c3689a"
+    },
+    {
+      "path": "assets/ridge.webp.webp",
+      "bytes": 447668,
+      "sha256": "3c54bdf911fc061b1c20ee171c9bac44fa6dbc859cb65e19e00db070973098a5"
+    },
+    {
+      "path": "assets/rifle.mp3.mp3",
+      "bytes": 16648,
+      "sha256": "d9477173e08e11ba392ca212a2af0ef2592e30c9b1b78fb8586c508c0e982cdc"
+    },
+    {
+      "path": "assets/river-reference-v3.webp.webp",
+      "bytes": 335118,
+      "sha256": "84b8772101ce29b3320360326bbbd45582f6fca72f09788dfa76d1a94672fd53"
+    },
+    {
+      "path": "assets/river.mp3.mp3",
+      "bytes": 1867560,
+      "sha256": "7b9d46c587902cd2cb2a65b2bbf69ba8c870b568e16c812ed094a60a0660e723"
+    },
+    {
+      "path": "assets/shore-approach-approved-20261118.png",
+      "bytes": 3206819,
+      "sha256": "058a85422db9e0bc743d7e94dbdb15d28c26a7ef24fd3d30ab06d71a4ba2e6f5"
+    },
+    {
+      "path": "assets/tent-interior-empty.png.webp",
+      "bytes": 2052930,
+      "sha256": "105f5a5c83c1c4e905efd5abc756c7e2607f7c0dde7a1c3f111bb8ba4d837c93"
+    },
+    {
+      "path": "assets/toned-dinner-hands-away-v1.png.webp",
+      "bytes": 2081596,
+      "sha256": "5716289527f85c2aa60a0b822fa23f653bb1b61ff85c94c96e8fe3f5561c32b3"
+    },
+    {
+      "path": "assets/unified-cooking.png.webp",
+      "bytes": 2449336,
+      "sha256": "3003db546eeeb177742125afe2ed11dc301f845b0d6c2b3e1f5652777057e0eb"
+    },
+    {
+      "path": "assets/unified-eating.png.webp",
+      "bytes": 2287710,
+      "sha256": "9761c0a73ad69218be52054275dc80203810b8ac7c08f0d114fc76a5ca6fc597"
+    },
+    {
+      "path": "assets/unified-rope.png.webp",
+      "bytes": 2554570,
+      "sha256": "b1ee0b54530872744bef268bdfc7797af62e642e3bcf2cc77fb11c796d579e89"
+    },
+    {
+      "path": "assets/wading-neutral-sheet.webp.webp",
+      "bytes": 280144,
+      "sha256": "f217188601e3afbcc9f8938c6d4c527a4543c9c1441656b402e6a15d2df32f3d"
+    },
+    {
+      "path": "assets/walk-ground.webp.webp",
+      "bytes": 418836,
+      "sha256": "bd23b7c5d4993542c8e9724ee7e106ad107f08f2be6c1c036e9b327ff6bf3ec3"
+    },
+    {
+      "path": "assets/walking-sheet.webp.webp",
+      "bytes": 297328,
+      "sha256": "f23b4e975b12094ca033c28f1341200947a7eb67e596e76184a57d26510ab66a"
+    },
+    {
+      "path": "assets/wind-birds.mp3.mp3",
+      "bytes": 6479088,
+      "sha256": "cb13e8b4f1caaa42ca3ff21e3f606b62c75b985a7379f2bc3dbba76b76e40d19"
+    },
+    {
+      "path": "assets/wolf-warning.webp.webp",
+      "bytes": 252728,
+      "sha256": "2d48e4b3a3dffc656584eb35879c254e9452f3dcb053bbfcfb77e045c74f7eb6"
+    },
+    {
+      "path": "assets/wolf.webp.webp",
+      "bytes": 362680,
+      "sha256": "fe05aafd6c3cd5bb4066992ac4b5bfd733c3ca0ca04d2b68dfb8a3b1d1261d8b"
+    },
+    {
+      "path": "camp-audio.js",
+      "bytes": 5587,
+      "sha256": "29a0506d0176ef077f9a71fceb8c58783179349067c67b2fdd002731f8782b77"
+    },
+    {
+      "path": "camp.js",
+      "bytes": 19168,
+      "sha256": "28e8ae783fd03c442acea68f395a9ba1c3cc90cf3340b4a22faa7d661616186e"
+    },
+    {
+      "path": "fishing-rig.js",
+      "bytes": 3085,
+      "sha256": "3bddae1149a9d0dc27039d17106fcfd5d46eea09c386c1c41b96d5d534520a3c"
+    },
+    {
+      "path": "game.js",
+      "bytes": 35671,
+      "sha256": "87a35ea49d4eaf5c3001a05b55c8b2ba426f46c69b3d53b89eafef62385d01b6"
+    },
+    {
+      "path": "icons/app-icon.png",
+      "bytes": 3043041,
+      "sha256": "a679b40119922adcaf55126bf4199339dbb07ef29d889959abd98d7d58699635"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3160,
+      "sha256": "31ac400c34854d6631427cc767096e381c012f21b2851af8adb9957a79fb7f4e"
+    },
+    {
+      "path": "late/frying.js",
+      "bytes": 2268232,
+      "sha256": "8134a6ac32d33b187175950bad5e1dc11700bf07afe2e7d605218cc203b80ca8"
+    },
+    {
+      "path": "late/oil.js",
+      "bytes": 2616253,
+      "sha256": "33005374d4ffb3ef352841a699d0a989f05ac116543dfcbf00bc96c1797f5c77"
+    },
+    {
+      "path": "late/stone.js",
+      "bytes": 3127377,
+      "sha256": "09e8ddece93f5fdc7f24df66b72e3618187c81cb0f7e45f2c1c4cdef10ad238a"
+    },
+    {
+      "path": "loading.js",
+      "bytes": 5524,
+      "sha256": "0aa41156214a1ba7edca6f6e562bba49cabae577e55f473b4e31709aef0c56e1"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 328,
+      "sha256": "c647c9bc7371be2ef1097ed11f95ece252a78b79f3a7fa42f9fa69adf7bcf0ed"
+    },
+    {
+      "path": "motion.js",
+      "bytes": 2532,
+      "sha256": "9d984cea50589cc14ac3c7c6d23a9a7261f58773e7c70c35652d1de0be348256"
+    },
+    {
+      "path": "offline.css",
+      "bytes": 1100,
+      "sha256": "a40298eff1c8bb60993335383390bdc4b61ffa6edec9e032a4c6f5102fd70364"
+    },
+    {
+      "path": "offline.html",
+      "bytes": 1314,
+      "sha256": "85434adbc21742ec112d7913c669a0050c2feb21e049c3c77282ce354a86fb48"
+    },
+    {
+      "path": "offline.js",
+      "bytes": 2681,
+      "sha256": "ce1216fd0ff4b8c55725f3aaa7e88e1f186c752c0ef1aa56631610cc25f4e7d0"
+    },
+    {
+      "path": "service-worker.js",
+      "bytes": 4441,
+      "sha256": "0969d498859ba2313a05cbcda8e75d1e73922e4bc243999fe1e48e4709a560d9"
+    },
+    {
+      "path": "style.css",
+      "bytes": 5754,
+      "sha256": "75e20e8f9314770ceb9316e326e0d220b816e7250f830ef3355f3845d444be7d"
+    }
+  ]
+}
